@@ -1,0 +1,7 @@
+data/edu.apps.mathgame.desktop.in
+data/edu.apps.mathgame.appdata.xml.in
+data/edu.apps.mathgame.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
